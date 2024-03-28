@@ -8,7 +8,7 @@ The Weather App is a web application designed to provide up-to-date weather info
 
 - **Location search:** Search by city to get current weather.
 - **Detailed data:** Displays detailed information about the current weather.
-- User-friendly interface:** Intuitive and easy-to-use design, with modern styling thanks to Tailwind CSS.
+- **User-friendly interface:** Intuitive and easy-to-use design, with modern styling thanks to Tailwind CSS.
   
 ## Technologies Used
 

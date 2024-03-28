@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 🌦️
 
 The Weather App is a web application designed to provide up-to-date weather information for any location. Leveraging the OpenWeatherMap API, it allows users to search for weather data by city and view details such as temperature, humidity, and more.
 

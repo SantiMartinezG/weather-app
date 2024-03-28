@@ -13,6 +13,6 @@ The Weather App is a web application designed to provide up-to-date weather info
 ## Technologies Used
 
 - React
-- AJAX
+- Axios
 - Tailwind CSS
 - OpenWeatherMap API
